@@ -1,0 +1,6 @@
+Favorite film: Gladiator
+FavoriteTVseries: The big bang theory 
+Favorite  food : fruit 
+Favorite time of the year: summer  
+Country: Italy
+

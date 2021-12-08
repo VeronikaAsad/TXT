@@ -1,0 +1,3 @@
+Soft skills: attention, communicability, ambitions
+Hard skills: testing theories, Gitbush, Github, Postman, SQL, Jmeter, Devtools
+
