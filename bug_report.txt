@@ -1,1 +1,20 @@
+ID:1
+Summary: 
+The selected filter is not applied when trying to search by name in the search bar at the same time.
+Severity (Blocker, Critical, Major, Minor, Trivial): Major
+Description:
+The selected filter is not applied when trying to search by name in the search line at the same time, the search is performed in all coffee shops, and not in the filtered list. The filter indicator turns yellow to indicate that a filter is being applied.
+
+Reproducibility: Always.
+Reproduced on: All devices.
+Steps to reproduce:
+1) Open app 'Coffee Shop';
+2) Tap on the icon Filter;
+3) Tap on the any filter parameters (Ex. 'Бонус/скидка');
+4) Click on the checkmark in the corner of the Filter;
+5) Enter any letter in the search bar.
+Actual result:
+Searching the entire list of coffee shops.
+Expected result:
+Searching through a filtered list of coffee shops.
 
